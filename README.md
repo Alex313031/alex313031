@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Alex. Currently working on Thorium Browser and ThoriumOS. I'm a Linux/FOSS enthusiast.
 
 <!--
 **Alex313031/alex313031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
