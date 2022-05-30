@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Alex. Currently working on Thorium Browser and ThoriumOS. I'm a Linux/FOSS enthusiast.
+### Hi there 👋 I'm Alex Frick. Currently working on Thorium Browser and ThoriumOS. I'm a Linux/FOSS enthusiast.<img src="https://github.com/Alex313031/Thorium/blob/main/logos/STAGING/thorium_bubbles.svg" width="64">
 
 <!--
 **Alex313031/alex313031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
