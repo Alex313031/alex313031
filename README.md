@@ -1,5 +1,5 @@
 <img src="https://github.com/Alex313031/Thorium/blob/main/logos/STAGING/thorium_bubbles.svg" width="64"></img>
-## Hi there 👋 I'm Alex Frick. Currently working on Thorium Browser, ThoriumOS, Firefox, and Electron apps. I'm a [Linux/FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) enthusiast, as well as a [Windows 7](https://thorium.rocks/win7) enthusiast.
+## Hi there 👋 I'm Alex. Currently working on Thorium Browser, ThoriumOS, Firefox, and Electron apps. I'm a [Linux/FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) enthusiast, as well as a [Windows 7](https://thorium.rocks/win7) enthusiast.
 
 ### <img src="https://github.com/Alex313031/Thorium/blob/main/logos/NEW/thorium.svg" width="32"></img>&nbsp; Thorium ([Chromium](https://www.chromium.org/) fork):
  - https://github.com/Alex313031/Thorium
