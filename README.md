@@ -17,7 +17,6 @@
  - Quark Player > https://github.com/Alex313031/quark-player
  - Atom-ng (maintained fork of [Atom](https://github.com/atom/atom)) > https://github.com/Alex313031/atom-ng \
    https://thorium.rocks/atom-ng/
- - Beaker-ng (maintained fork of [Beaker](https://thorium.rocks/docs.beakerbrowser.com/)) > https://github.com/Alex313031/beaker-ng
  - Apple Music Desktop > https://github.com/Alex313031/apple-music-desktop
  - Codium (fork of [VSCodium](https://vscodium.com/)) > https://github.com/Alex313031/codium
  - Universal Paperclips Electron (desktop version of [this](https://www.decisionproblem.com/paperclips/index2.html) game) > https://github.com/Alex313031/universal-paperclips-electron
