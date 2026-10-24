@@ -1,6 +1,8 @@
 <img src="https://github.com/Alex313031/Thorium/raw/refs/heads/main/logos/STAGING/thorium_bubbles.svg" width="64"></img>
 ## Hi there 👋 I'm Alex. Currently working on Thorium Browser, ThoriumOS, Firefox, and Electron apps. I'm a [Linux/FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) enthusiast, as well as a [Windows 7](https://thorium.rocks/win7) enthusiast.
 
+![](https://komarev.com/ghpvc/?username=Alex313031&color=green)
+
 ### <img src="https://github.com/Alex313031/Thorium/raw/refs/heads/main/logos/NEW/thorium.svg" width="32"></img>&nbsp; Thorium ([Chromium](https://www.chromium.org/) fork):
  - https://github.com/Alex313031/Thorium
  - https://thorium.rocks/
